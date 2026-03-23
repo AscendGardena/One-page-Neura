@@ -1,0 +1,27 @@
+.backhero {
+    background: linear-gradient(90deg, #0a01b5, #6e01c8);
+    height: 90vh;
+}
+
+nav{
+    background: linear-gradient(120deg, #0a01b5, #6e01c8);
+}
+
+.imgH {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.propos {   
+    padding-bottom: 30px;
+}
+
+html, body {
+    scroll-behavior: smooth;
+}
+
+h2 {
+    color: #bc0c0c;
+    font-weight: bold;
+}
